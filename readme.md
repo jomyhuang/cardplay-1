@@ -19,9 +19,15 @@
 ## 快速开始
 
 # 在项目目录下执行
-python -m http.server 8000
+python -m http.server 8080
 
-http://localhost:8000/
+http://localhost:8080/
+
+
+/usr/local/bin/python3  -m http.server 8080
+
+http://localhost:8080/index.html    
+
 
 
 ### 环境要求
